@@ -16,13 +16,20 @@
 
 <h3>🛠️ Projects:</h3>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-
   🐧 - [@jcjr22](https://jcastro.net/)
+    <p align='center'>
+  
 
+  <a href="https://www.linkedin.com/in/joaocsjr/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+</p>
 
 
 [![Joao castro GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaocsjr&show_icons=true)](https://github.com/joaocsjr)
 
+<p align='center'>
+  📫 How to reach me: <a href='mailto:jcastro@jcastro.net'>jcastro@jcastro.net</a>
+</p>
 
