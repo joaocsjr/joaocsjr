@@ -14,10 +14,7 @@
   
   ⭐ VMWare ● Windows ● Openshift ● AWS ● Ansible Tower
 
-<h3>🛠️ Projects:</h3>
 
-  🐧 - [@jcjr22](https://jcastro.net/)
-    <p align='center'>
   
 
   <a href="https://www.linkedin.com/in/joaocsjr/">
