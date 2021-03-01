@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**joaocsjr/joaocsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>Hello, I am Joao Castro :)</h2>
 
-Here are some ideas to get you started:
+<h3>  About Me!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🙋 Infrastructure as a code
+  
+  💼 Working as a IT specialist 
+
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins
+  
+  ⭐ VMWare ● Windows ● Openshift ● AWS ● Ansible Tower
+
+<h3>🛠️ Projects:</h3>
+
+  🐧 - [@jcjr22](https://jcastro.net/)
+
+
+
+[![Joao castro GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaocsjr&show_icons=true)](https://github.com/joaocsjr)
+
+
