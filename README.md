@@ -4,7 +4,7 @@
 
 <h3>  About Me!</h3>
 
-  🙋 Infrastructure as a code
+  🙋 Devops student
   
   💼 Working as a IT specialist 
 
