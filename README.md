@@ -10,7 +10,7 @@
 
 <h3>⚙️ Stack</h3>
 
-  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins
+  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● GitLab
   
   ⭐ VMWare ● Windows ● Openshift ● AWS ● Ansible Tower
 
