@@ -12,7 +12,7 @@
 
   💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● GitLab
   
-  ⭐ VMWare ● Windows ● Openshift ● AWS ● Ansible Tower
+  ⭐ VMWare ● Windows ● Openshift ● AWS ● AZURE ● GCP ● Ansible Tower
 
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
