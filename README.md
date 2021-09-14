@@ -2,7 +2,11 @@
 <div align="center">
 <h2>Hello, I am Joao Castro :)</h2>
 
-<h3>  About Me!</h3>
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+ <h3>  About Me!</h3>
 
   🙋 Devops student
   
@@ -14,6 +18,11 @@
   
   ⭐ VMWare ● Windows ● Openshift ● AWS ● AZURE ● GCP ● Ansible Tower
 
+  
+</p>
+
+
+  
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
