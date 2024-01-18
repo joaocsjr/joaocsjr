@@ -9,8 +9,7 @@
  <h3>  About Me!</h3>
 
   🙋 Devops student
-  
-  💼 Working as a IT specialist 
+
 
 <h3>⚙️ Stack</h3>
 
